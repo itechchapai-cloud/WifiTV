@@ -184,4 +184,4 @@ https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1778936869&u=78be6644-0a65-48e
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/e92e9e2fb70909f3dd30a8d89e644119" group-title="Hindi",Goldmines Bollywood
 https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8
 #EXTINF:22,Colors Bangla
-http://10.99.99.99:8082/COLORS.BANGLA.HD/index.m3u8
+ttp://10.99.99.99:8082/COLORS.BANGLA.HD/index.m3u8?token=741f936923fd42f02ee19ec6e168a41532a975e7-e38ebb748f1ad403f5442906ba4d9ea9-1781005289-1780994489
