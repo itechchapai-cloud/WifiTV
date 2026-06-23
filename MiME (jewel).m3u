@@ -43,7 +43,7 @@ http://ms.towkai.com/EkattorHD/index.m3u8
 http://ms.towkai.com/asiantv_ml/index.m3u8
 #EXTINF:22,satv
 http://ms.towkai.com/satv/index.m3u8
-#EXTINF:18,tvg-logo="https://github.com/itechchapai-cloud/WifiTV/blob/0dbe5e2d460f33531fdf796ca75e9a79bb6a823a/logos/Jamuna_tv.png",Jamuna_SD
+#EXTINF:18, tvg-logo="https://github.com/itechchapai-cloud/WifiTV/blob/0dbe5e2d460f33531fdf796ca75e9a79bb6a823a/logos/Jamuna_tv.png" ,Jamuna_SD
 http://ms.towkai.com/Jamuna_SD/index.m3u8
 #EXTINF:22,DeeptoHD
 http://ms.towkai.com/DeeptoHD/index.m3u8
