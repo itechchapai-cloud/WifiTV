@@ -51,6 +51,8 @@ http://ms.towkai.com/DeeptoHD/index.m3u8
 http://ms.towkai.com/dbcnews_ml/index.m3u8
 #EXTINF:22,News 24 HD
 http://ms.towkai.com/News24HD/index.m3u8
+#EXTINF:-1,11-Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
 #EXTINF:23,banglatv
 http://ms.towkai.com/banglatv/index.m3u8
 #EXTINF:22,DurontoHD
