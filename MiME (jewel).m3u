@@ -69,6 +69,8 @@ http://ms.towkai.com/channels_ml/tracks-v1a1/mono.m3u8
 http://ms.towkai.com/EkhonHD/tracks-v1a1/mono.m3u8
 #EXTINF:22,Aakash Aath SD
 http://ms.towkai.com/aakash_ml/index.m3u8
+#EXTINF:-1 ,Enter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:22,aljazeera
 http://ms.towkai.com/aljazeera_ml/index.m3u8
 #EXTINF:22,zeenews
@@ -114,7 +116,7 @@ http://ms.towkai.com/hum_ml/index.m3u8
 #EXTINF:22,zeebangla
 http://ms.towkai.com/zeebangla_ml/index.m3u8
 #EXTINF:-1 tvg-id="starjalsha.in" tvg-logo="http://openboxv8s.com/india/star_jalsha.png",STAR JALSHA HD
-https://tvsen3.aynascope.net/n64PH4YL/index.m3u8
+http://ms.towkai.com/starjalsha_ml/tracks-v1a1/mono.m3u8
 #EXTINF:20,ARY DIGITAL HD
 http://ms.towkai.com/arydigital_ml/index.m3u8
 #EXTINF:20,sonyaath
@@ -165,6 +167,8 @@ http://ms.towkai.com/sonybbcearth_mimelive/index.m3u8
 http://ms.towkai.com/discoveryscience_mimelive/index.m3u8
 #EXTINF:22,discovery
 http://ms.towkai.com/discovery_mimelive/index.m3u8
+#EXTINF:-1 ,Peace TV Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 #EXTINF:22,qurantv
 http://ms.towkai.com/qurantv_mimelive/index.m3u8
 #EXTINF:22,sunna
