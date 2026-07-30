@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:23,BTV NATIONAL HD tvg-logo= "https://github.com/itechchapai-cloud/WifiTV/blob/f7a97e61487cf5e6344771d9c33f2e9057b0cde8/logos/B_tv.png"
+#EXTINF:23 tvg-logo="https://github.com/itechchapai-cloud/WifiTV/blob/f7a97e61487cf5e6344771d9c33f2e9057b0cde8/logos/B_tv.png",BTV NATIONAL HD 
 https://bit.ly/3TciIIX
 #EXTINF:7,BTVChattogram
 https://bit.ly/44si5xl
