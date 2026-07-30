@@ -191,3 +191,6 @@ http://ms.towkai.com/zeecafehd/index.m3u8
 https://amg01412-xiaomiasia-abpananda-xiaomi-lzyzw.amagi.tv/playlist/amg01412-xiaomiasia-abpananda-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
 http://ms.towkai.com/T_SportsFHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,PTV sports
+http://172.20.5.50:8082/T-SPORTS-HD/tracks-v1a1/mono.m3u8?token=5a68bafd909c07e159e10fd8d49d064449229152-c61b7dc68e2cf1186366e83738c9e505-1784493838-1784483038
+
