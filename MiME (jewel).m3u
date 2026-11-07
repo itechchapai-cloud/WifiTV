@@ -102,7 +102,7 @@ http://ms.towkai.com/jalshamovies_ml/index.m3u8
 #EXTINF:22,stargold2
 http://ms.towkai.com/stargold2_ml/index.m3u8
 #EXTINF:22,sonypix
-http://ms.towkai.com/sonypix_ml/index.m3u8
+http://10.99.99.99:8282/SONY.PIX.HD/tracks-v1a1/2026/11/07/14/54/16-06000.ts?session=2ceb19e59dd6deb698afe9f87ac2a873d886c2e1-af946a2707e773d31128ff28-1794072446-1794061646
 #EXTINF:22,andflix
 http://ms.towkai.com/andflix_ml/index.m3u8
 #EXTINF:22,zeetv
@@ -130,7 +130,7 @@ http://10.99.99.99:8282/SONY.SPORTS.1HD/tracks-v1a1/mono.m3u8?remote=no_check_ip
 #EXTINF:22, group-title="Sports",sonyten2
 http://10.99.99.99:8282/SONY.SPORTS2.HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=4102980f6ff47a39760c0198428d69dca5d9c583-758e4de17f355e0ffc5b0b19-1794072446-1794061646
 #EXTINF:22, group-title="Sports",sonyten3
-http://ms.towkai.com/sonyten3_ml/index.m3u8
+http://10.99.99.99:8282/SONY.SPORTS.3/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=4c5f628229a12ed020675f84294ba341ac772f03-28cf4cb2c7964418f171fc8a-1794072446-1794061646
 #EXTINF:22, group-title="Sports",ssp1
 http://ms.towkai.com/ssp1_ml/index.m3u8
 #EXTINF:22, group-title="Sports",ssp2
@@ -164,7 +164,7 @@ http://ms.towkai.com/historytv_mimelive/index.m3u8
 #EXTINF:22,AP
 http://ms.towkai.com/ap_mimelive/index.m3u8
 #EXTINF:20,sonybbcearth
-http://ms.towkai.com/sonybbcearth_mimelive/index.m3u8
+http://10.99.99.99:8282/SONY.BBC.EARTH.HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=93e04441bbc40a85a6d72b2f98be207e76a8b104-d83d68a8b33c372a716033db-1794072446-1794061646
 #EXTINF:22,discoveryscience
 http://ms.towkai.com/discoveryscience_mimelive/index.m3u8
 #EXTINF:22,discovery
