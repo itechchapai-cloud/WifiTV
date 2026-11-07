@@ -126,9 +126,9 @@ http://ms.towkai.com/sonyaath_ml/index.m3u8
 #EXTINF:22,Travel XP HD
 http://ms.towkai.com/travelxp_ml/index.m3u8
 #EXTINF:22, group-title="Sports",sony_ten1
-http://ms.towkai.com/sony_ten1/index.m3u8
+http://10.99.99.99:8282/SONY.SPORTS.1HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=c1a1b1847d7c0952a26d11f15df317f0b8db982f-b2d8b46f6b4997c3df8e425e-1794072446-1794061646
 #EXTINF:22, group-title="Sports",sonyten2
-http://ms.towkai.com/sonyten2_ml/index.m3u8
+http://10.99.99.99:8282/SONY.SPORTS2.HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=4102980f6ff47a39760c0198428d69dca5d9c583-758e4de17f355e0ffc5b0b19-1794072446-1794061646
 #EXTINF:22, group-title="Sports",sonyten3
 http://ms.towkai.com/sonyten3_ml/index.m3u8
 #EXTINF:22, group-title="Sports",ssp1
@@ -192,6 +192,6 @@ https://amg01412-xiaomiasia-abpananda-xiaomi-lzyzw.amagi.tv/playlist/amg01412-xi
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
 http://ms.towkai.com/T_SportsFHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,PTV sports
-http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
+http://10.99.99.99:8282/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=d00fb87611c6c53368e11e460e6a2a82833b4bc6-e8d3ccc7f4a6f09f5d9a052c-1794072446-1794061646
 #EXTINF:-1 tvg-id="a3d48c46-7902-45e2-abf9-0fab60c4d117" tvg-name="A sports" tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" ,A sports
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102655&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=833b5dd42540ad3eaf690e4b371d5fec
