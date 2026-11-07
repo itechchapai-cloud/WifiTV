@@ -90,7 +90,7 @@ http://ms.towkai.com/bbcnews_ml/index.m3u8
 #EXTINF:20,CNN
 http://ms.towkai.com/cnn_ml/index.m3u8
 #EXTINF:22,sonysetmax
-http://ms.towkai.com/sonysetmax_ml/index.m3u8
+http://10.99.99.99:8282/SONY.MAX.HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=0eddb50290b119f79909e9ec5106afeece5d2bd4-6bda3b2058dc179e956a61fe-1794072446-1794061646
 #EXTINF:22,b4umovies
 http://ms.towkai.com/b4umovies_ml/index.m3u8
 #EXTINF:22,zeecinema
@@ -108,7 +108,7 @@ http://ms.towkai.com/andflix_ml/index.m3u8
 #EXTINF:22,zeetv
 http://ms.towkai.com/zeetv_ml/index.m3u8
 #EXTINF:22,Sony TV HD
-http://ms.towkai.com/sonytv_ml/index.m3u8
+http://10.99.99.99:8282/SONY.ENT.HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=1a3b41479254c77bc2388905e4c46788291bf118-ab047c3d9218f1a1da436482-1794072446-1794061646
 #EXTINF:22,starplus
 http://ms.towkai.com/starplus_ml/index.m3u8
 #EXTINF:22,andtv
@@ -122,7 +122,7 @@ http://ms.towkai.com/starjalsha_ml/tracks-v1a1/mono.m3u8
 #EXTINF:20,ARY DIGITAL HD
 http://ms.towkai.com/arydigital_ml/index.m3u8
 #EXTINF:20,sonyaath
-http://ms.towkai.com/sonyaath_ml/index.m3u8
+http://10.99.99.99:8282/SONY.AAT/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=80773c104146a35aec5c53fa905e8c8ad8ea5bc4-3a683c003381c7edaf9fb85b-1794072446-1794061646
 #EXTINF:22,Travel XP HD
 http://ms.towkai.com/travelxp_ml/index.m3u8
 #EXTINF:22, group-title="Sports",sony_ten1
