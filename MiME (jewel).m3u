@@ -102,7 +102,7 @@ http://ms.towkai.com/jalshamovies_ml/index.m3u8
 #EXTINF:22,stargold2
 http://ms.towkai.com/stargold2_ml/index.m3u8
 #EXTINF:22,sonypix
-http://10.99.99.99:8282/SONY.PIX.HD/tracks-v1a1/2026/11/07/14/54/16-06000.ts?session=2ceb19e59dd6deb698afe9f87ac2a873d886c2e1-af946a2707e773d31128ff28-1794072446-1794061646
+http://10.99.99.99:8282/SONY.SPORTS.3/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=4c5f628229a12ed020675f84294ba341ac772f03-28cf4cb2c7964418f171fc8a-1794072446-1794061646
 #EXTINF:22,andflix
 http://ms.towkai.com/andflix_ml/index.m3u8
 #EXTINF:22,zeetv
