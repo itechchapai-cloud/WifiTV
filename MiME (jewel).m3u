@@ -127,10 +127,10 @@ http://10.99.99.99:8282/SONY.AAT/tracks-v1a1/mono.m3u8?remote=no_check_ip&sessio
 http://ms.towkai.com/travelxp_ml/index.m3u8
 #EXTINF:22, group-title="Sports",sony_ten1
 http://10.99.99.99:8282/SONY.SPORTS.1HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=c1a1b1847d7c0952a26d11f15df317f0b8db982f-b2d8b46f6b4997c3df8e425e-1794072446-1794061646
-#EXTINF:22, group-title="Sports",sonyten2
-http://10.99.99.99:8282/SONY.SPORTS2.HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=4102980f6ff47a39760c0198428d69dca5d9c583-758e4de17f355e0ffc5b0b19-1794072446-1794061646
 #EXTINF:22, group-title="Sports",sonyten3
-http://10.99.99.99:8282/SONY.SPORTS.3/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=4c5f628229a12ed020675f84294ba341ac772f03-28cf4cb2c7964418f171fc8a-1794072446-1794061646
+http://10.10.10.112:84/SONY-SPORTS-3/tracks-v1a1/mono.m3u8
+#EXTINF:22, group-title="Sports",sonyten5
+http://10.10.10.112:84/SONY-SPORTS-5/tracks-v1a1/mono.m3u8
 #EXTINF:22, group-title="Sports",ssp1
 http://ms.towkai.com/ssp1_ml/index.m3u8
 #EXTINF:22, group-title="Sports",ssp2
