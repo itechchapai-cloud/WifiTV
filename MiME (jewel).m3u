@@ -192,6 +192,6 @@ https://amg01412-xiaomiasia-abpananda-xiaomi-lzyzw.amagi.tv/playlist/amg01412-xi
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
 http://ms.towkai.com/T_SportsFHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,PTV sports
-http://10.99.99.99:8282/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&session=d00fb87611c6c53368e11e460e6a2a82833b4bc6-e8d3ccc7f4a6f09f5d9a052c-1794072446-1794061646
+http://10.10.10.112:84/PTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="a3d48c46-7902-45e2-abf9-0fab60c4d117" tvg-name="A sports" tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" ,A sports
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102655&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=833b5dd42540ad3eaf690e4b371d5fec
