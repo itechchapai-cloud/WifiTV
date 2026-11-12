@@ -195,3 +195,5 @@ http://ms.towkai.com/T_SportsFHD/tracks-v1a1/mono.m3u8
 http://10.10.10.112:84/PTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="a3d48c46-7902-45e2-abf9-0fab60c4d117" tvg-name="A sports" tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" ,A sports
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102655&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=833b5dd42540ad3eaf690e4b371d5fec
+#EXTINF:22, group-title="Sports",Ten Cricket
+http://10.10.10.112:84/TEN-Cricket/tracks-v1a1/mono.m3u8
